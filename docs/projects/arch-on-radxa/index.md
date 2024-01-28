@@ -332,6 +332,6 @@ fdtoverlay /dtbo/meson-usb-peripheral.dtbo
 ...
 ```
 
-The overlay can be downloaded [here](https://file.dionisis.xyz/meson-usb-peripheral.dtbo) and needs to be placed in the
+The overlay can be downloaded <a href="/files/meson-usb-peripheral.dtbo">here</a> and needs to be placed in the
 directory `/boot/dtbo`.
 :::
