@@ -15,14 +15,14 @@ hero:
       link: /projects/
 
 features:
-  - icon: 🎲
-    title: The most chaotic place on earth
-    details: Only the most random projects that I came up from the dark depths of my mind
-  - icon: 🌎
-    title: I do not know what I am doing
-    details: I have Ø experience in web development and don't plan to like it anytime soon
-  - icon: 🏗️
-    title: This site is under construction
-    details: It will forever be a work in progress as is the nature of any pseudo blog like site
+  - icon: 🔧
+    title: Hardware, software and mechatronics
+    details: From designing PCBs and 3D printing, to Python scripts and custom embedded software, I dabble in all.
+  - icon: 📜
+    title: Open source
+    details: All my projects here are open source and relevant material is available for every one.
+  - icon: 🚧
+    title: Under development
+    details: This website is still under active development and things might change.
 ---
 

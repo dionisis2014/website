@@ -10,17 +10,18 @@ export default defineConfig({
 			{ text: 'Projects', link: '/projects/' }
 		],
 
-		sidebar: {
-			'/projects/': [
-				{
-					text: 'Projects',
-					items: [
-						{ text: 'Arch Linux on Radxa Zero', link: '/projects/arch-on-radxa/' },
-						{ text: 'Notifier', link: '/projects/notifier/' }
-					]
-				}
-			]
-		},
+		// Remove sidebar for now until there is more content
+		// sidebar: {
+		// 	'/projects/': [
+		// 		{
+		// 			text: 'Projects',
+		// 			items: [
+		// 				{ text: 'Arch Linux on Radxa Zero', link: '/projects/arch-on-radxa/' },
+		// 				{ text: 'Notifier', link: '/projects/notifier/' }
+		// 			]
+		// 		}
+		// 	]
+		// },
 
 		search: {
 			provider: 'local'
